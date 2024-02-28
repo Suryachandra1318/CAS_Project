@@ -1,0 +1,58 @@
+Time Sheet Automation
+ 
+This Automation project is written in selenium and it tests the Cognizant's Time Sheet Webpage.
+ 
+Start Date : 01-02-2024
+End Date   : 13-02-2024
+ 
+Team members :
+ 
+1. Pathan, Makhdoom
+2. Surya Chandra Rao, Yarra
+3. P, Dhinakaran
+4. Sravan, Cheedella
+5. P, Vishnupriya
+ 
+Project Description : 
+
+1. Navigate to Be.Cognizant portal
+2. Verify user information
+3. Verify one cognizant is displayed under apps and tools or not and click it
+4. Verify it navigated to one cognizant or not
+5. Enter timesheet in search box
+6. Click on "submit timesheet"
+7. Verify it navigated to timesheet module or not
+8. Compare last 3 weeks time sheet details with system calender whether they are matching or not
+9. Verify the search box field is displayed or not and click on date
+10. Check date field is displayed or not and click on today's date and click search button
+11. Verify whether current week details only displaying or not
+12. Click on status in search drop-down
+13. Click each item in status drop-down and click on search button
+14. Verify Whether it's displaying only corresponding status information or not
+ 
+Dependency Source :
+ 
+Maven Repository : 
+https://mvnrepository.com/
+
+Dependencies :
+ 
+selenium-java
+apache.poi
+log4j
+testng
+extentreports
+ 
+URL of be.cognizant : 
+https://cognizantonline.sharepoint.com/sites/Be.Cognizant/SitePages/Home.aspx
+ 
+ 
+Concepts of implementation :
+
+Selenium
+TestNG
+Page Object Model
+Extentreports
+Screenshots
+ 
+-------------------------- Thank You --------------------------
